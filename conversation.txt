@@ -1,0 +1,372 @@
+Conversation
+------------
+
+Created:    2023-07-06T14:01:33.706838-07:00
+Downloaded: 2023-07-09T13:25:42.237533-07:00
+Source: https://www.coursera.org/learn/introduction-to-cloud/home/week/1
+
+Number of requests:   36
+Number of responses:  42
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {'broswerVersion': '114.0.0.0',
+                          'browserName': 'Chrome',
+                          'email': 'kezewuiro@yahoo.com',
+                          'emailVerified': 'True',
+                          'firstName': 'kezewuiro@yahoo.com',
+                          'fullName': 'kezewuiro@yahoo.com',
+                          'helpCenter': 'Learner',
+                          'idLastDigit': '1',
+                          'identityVerified': 'True',
+                          'isConsumerLearner': 'True',
+                          'isDegreeLearner': 'False',
+                          'isEnterpriseLearner': 'False',
+                          'isPoweruser': 'False',
+                          'lastName': '.',
+                          'locale': 'en_US',
+                          'note': "Learner's user information shown below",
+                          'referrerUrl': 'https://www.coursera.org/learn/introduction-to-cloud/home/week/1',
+                          'supportLanguage': 'English',
+                          'timezone': 'America/New_York',
+                          'userId': '131ea94f749ad6a051e4171966c9358c'},
+               'type': 'clear_custom_payload'}}
+    - "Hi kezewuiro@yahoo.com!"
+    - "I'm Coursera Bot! 🤖"
+    - JSON: {'emitEvent': {'detail': {'body': '-',
+                          'method': 'GET',
+                          'url': '/api/subscriptions.v1?q=findByUser&userId=__userid__&fields=cartId,status,paymentProcessorId'},
+               'type': 'api_call'}}
+    - "..."
+
+
+You:
+    - "EVENT_HANDLER_SUCCESS"
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {}, 'type': 'clear_custom_payload'}}
+    - JSON: {'emitEvent': {'detail': {'body': '-',
+                          'method': 'GET',
+                          'url': '/api/carts.v2?limit=100&ids=319912118,318946892,47535580,46479999'},
+               'type': 'api_call'}}
+    - "..."
+
+
+You:
+    - "EVENT_HANDLER_SUCCESS"
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {}, 'type': 'clear_custom_payload'}}
+    - "I'm trained to help with questions about your account, certificates, payments, assessments, and grades."
+    - "If I don't know how to answer your question, I can search our Learner Help Center for articles."
+    - "What can I help you with? 🙂"
+
+
+You:
+    - "im unable to create an ibm cloud account. every time i enter the code, i get the "something went wrong" error message."
+
+
+Chat with us:
+    - "I think I understood that, I can help you with this:"
+    - Options: "Errors after running code", "Access the Guided Project cloud workspace", "Account"
+
+
+You:
+    - "no"
+
+
+Chat with us:
+    - "No, what?"
+
+
+You:
+    - "none on of the options you provided answer my question"
+
+
+Chat with us:
+    - "I’m sorry. I couldn’t quite understand that."
+    - "Can you try asking me another way?"
+
+
+You:
+    - "can i speak with a live person?"
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {'body': '-',
+                          'method': 'GET',
+                          'url': '/api/subscriptions.v1?q=findByUser&userId=__userid__&fields=cartId,status,paymentProcessorId'},
+               'type': 'api_call'}}
+    - "..."
+
+
+You:
+    - "EVENT_HANDLER_SUCCESS"
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {}, 'type': 'clear_custom_payload'}}
+    - JSON: {'emitEvent': {'detail': {'body': '-',
+                          'method': 'GET',
+                          'url': '/api/carts.v2?limit=100&ids=319912118,318946892,47535580,46479999'},
+               'type': 'api_call'}}
+    - "..."
+
+
+You:
+    - "EVENT_HANDLER_SUCCESS"
+
+
+Chat with us:
+    - JSON: {'emitEvent': {'detail': {}, 'type': 'clear_custom_payload'}}
+    - "Would you like me to transfer you to a human specialist?"
+    - Options: "Yes", "No"
+
+
+You:
+    - "Yes"
+
+
+Chat with us:
+    - "A specialist will be with you shortly!"
+    - "It may take a couple of minutes to connect you to a human."
+    - "You can keep asking me questions while you wait."
+
+
+Chat with us:
+    - "You are currently number 1 in the queue."
+
+
+Human agent:
+    - "Hello kezewuiro@yahoo.com .. An agent will be with you shortly."
+
+
+Human agent:
+    - "Hi Kezewuiro! My name is Grace. Thank you for contacting us. How may I help you today?"
+
+
+You:
+    - "hello! im unable to create an ibm cloud account. every time i enter the code i was given, i get the "something went wrong" error message."
+
+
+Human agent:
+    - "Thank you for letting me know of your concern. I’m sorry to hear that you are having these problems about the course. I will get this resolved as quickly as possible."
+
+
+Human agent:
+    - "Is this about the free trial?"
+
+
+You:
+    - "yeah"
+
+
+Human agent:
+    - "Thank you for confirming. Is this your first time redeeming the code?"
+
+
+You:
+    - "yes it is"
+
+
+Human agent:
+    - "Great! May I ask what link are you using to create an account?"
+
+
+You:
+    - "im here now"
+
+
+You:
+    - ""
+
+
+You:
+    - "that's the page i'm currently on"
+
+
+Human agent:
+    - "Thank you! Can you try this link? https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CC0100EN-SkillsNetwork/labs/IBMCloud_accountCreation/CreateIBMCloudAccount.md.html"
+
+
+Human agent:
+    - "Also for the error message, Have you perform basic troubleshooting steps?"
+
+
+You:
+    - "that's the link for the instructions on how to obtain a feature code, which i've already completed"
+
+
+Human agent:
+    - "I see. Did you try to a different browser?"
+
+
+You:
+    - "yes, i read the instructions. it said i either entered the incorrect region or i need to use another email address, which i did"
+
+
+You:
+    - "so now i have 2 logins"
+
+
+You:
+    - "i can try a different browser. one sec"
+
+
+Human agent:
+    - "I understand, I’m sorry you’re experiencing trouble with your creation of account. To help identify the issue, could you follow the steps below? From your keyboard, please use the appropriate shortcuts to open the console • Windows/Linux: Press Control + Shift + J • Mac: Press Command + Option + J Here are direct steps to open the console 1. From the menu bar, click View 2. Scroll down to Developer 3. Click Javascript Console Please take a screenshot of the page on which you’re experiencing the problem and reply back. (http://www.take-a-screenshot.org/)"
+
+
+You:
+    - "ok"
+
+
+Human agent:
+    - "Thank you"
+
+
+Human agent:
+    - "Are you still there? I'm here if you need help!"
+
+
+You:
+    - "okay, so i pressed "control shift J" , which brought up another display, but i can't find the menu bar."
+
+
+You:
+    - "what does it look like?"
+
+
+Human agent:
+    - "Can you try the F12?"
+
+
+Human agent:
+    - "Whille accessing the site?"
+
+
+You:
+    - "f12 on my keyboard is airplane mode. still press it?"
+
+
+Human agent:
+    - "Yes please and make sure that you are on site where you creating your account in IBM."
+
+
+You:
+    - "ok"
+
+
+Human agent:
+    - "Thank you"
+
+
+You:
+    - "okay, i pressed f12"
+
+
+Human agent:
+    - "Can you take a screenshot and send it to me via email?"
+
+
+Human agent:
+    - "I already sent you an email."
+
+
+You:
+    - "thanks. just responded"
+
+
+Human agent:
+    - "Great! Please bear with me."
+
+
+You:
+    - "thank yoU!"
+
+
+Human agent:
+    - "You're welcome!"
+
+
+Human agent:
+    - "Based on the screenshots that you have issues with your connection. May you please make sure that you have good connections? then try it again?"
+
+
+You:
+    - "that's probably because i pressed f12, which was airplane mode."
+
+
+Human agent:
+    - "Are you using a laptop or PC?"
+
+
+You:
+    - "laptop"
+
+
+Human agent:
+    - "Is there a way that you can press f12 without being disconnecting?"
+
+
+You:
+    - "i have no idea lol"
+
+
+You:
+    - "should i press shift and then f12?"
+
+
+Human agent:
+    - "If it works , you can try"
+
+
+You:
+    - "or better yet, can i just be provided with a different code to use?"
+
+
+Human agent:
+    - "let me double check that here"
+
+
+You:
+    - "thank you"
+
+
+Human agent:
+    - "One moment"
+
+
+You:
+    - "ok"
+
+
+Human agent:
+    - "Thank you"
+
+
+Human agent:
+    - "I'm sorry for the trouble you're experiencing with your IBM course. For further assistance, please email support@cognitiveclass.ai with the following details: Subject Line: Feature code issue Email Body/Content: - Name of the course you are undertaking: - The course link where you obtained the feature code: - The feature code you are trying to apply: - The error message that it is showing : - The email id that was used to create the IBM Cloud account:"
+
+
+You:
+    - "willl do. thank you"
+
+
+Human agent:
+    - "I hope I was able to answer your concern. Is there anything else I can help you with today?"
+
+
+You:
+    - "no thank you!"
+
+
+Human agent:
+    - "Thank you for contacting our chat support. I am now closing this chat. If you have any more issues, please don't hesitate to let us know. Have a great day!"
+
+
+Chat with us:
+    - "Thank you for chatting with us at customer support!"
+
